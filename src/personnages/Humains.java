@@ -82,6 +82,11 @@ public class Humains {
 
 	}
 
+	public void boire(String boisson) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
 		
 	
